@@ -1,5 +1,5 @@
-# QtMock
-Super simple mocking framework for QtTest
+# MiniMock
+Super simple mocking framework for C++
 
 The other day I was working on a C++ project and wanted to write some unit tests.
 I quickly ran into wanting to set up mocks of a few objects and was amazed to find that there were no good, simple mocking frameworks for C++, so I set out to write one myself, inspired by the excellent Moq framework for C#.
